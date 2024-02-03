@@ -3,3 +3,4 @@
 
 ## The Task
 **The error in this functionality is** 
+vertical and horizontal lines are interchanged after merging
