@@ -3,3 +3,4 @@
 
 ## The Task
 **The error in this functionality is** 
+**The error is the game is running by it's own and dont following up my command**
