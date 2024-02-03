@@ -1,6 +1,8 @@
 # 2048
 > Built for The Git & GitHub Workshop by Randomize();
 
+# Changes by me
+
 ## The Task
 **The error in this functionality is** 
 ## I founded 2 errors
